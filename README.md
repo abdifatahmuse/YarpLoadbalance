@@ -3,3 +3,5 @@
 
 # Yarp Reverse Proxy
 
+- Load Balance
+- Multiple Destinations
